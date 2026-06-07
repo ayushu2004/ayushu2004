@@ -27,7 +27,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 </p>
@@ -44,59 +44,135 @@
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Languages
 
-### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=typescript" />
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+---
+
+# ⚡ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=express" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=kafka" />
+</p>
+
 - Java
 - Spring Boot
 - Hibernate
 - JPA
 - REST APIs
 - Microservices
+- Node.js
+- Express.js
 
-### Frontend
+---
+
+# 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=typescript" />
+</p>
+
 - React.js
-- JavaScript
-- TypeScript
 - HTML5
 - CSS3
 - Tailwind CSS
+- JavaScript
+- TypeScript
 
-### Database
+---
+
+# 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
 - MySQL
+- MongoDB
 - SQL
 
-### Cloud & DevOps
+---
+
+# 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+- Machine Learning
+- Deep Learning
+- Generative AI
+- LLM Applications
+- Vector Databases
+- Embeddings
+- FAISS
+- RAG Systems
+- Scikit-Learn
+- TensorFlow
+
+---
+
+# ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+</p>
+
 - AWS
 - Docker
 - Linux
 - Git
 - GitHub
 
-### Messaging
-- Apache Kafka
+---
 
-### Machine Learning & AI
-- Machine Learning
-- TensorFlow
-- Generative AI
-- LLM Applications
+# 🛠️ Tools
 
-### Tools
-- Postman
+<p>
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=idea" />
+<img src="https://skillicons.dev/icons?i=postman" />
+<img src="https://skillicons.dev/icons?i=github" />
+</p>
+
 - VS Code
 - IntelliJ IDEA
+- Postman
+- GitHub
 
-### Core Computer Science
+---
+
+# 📚 Core CS
+
 - Data Structures & Algorithms
 - Object-Oriented Programming (OOPs)
 - DBMS
 - Operating Systems
 - Computer Networks
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,react,javascript,typescript,html,css,tailwind,mysql,aws,docker,kafka,linux,git,github,vscode,idea,tensorflow" />
-</p>
+- System Design Basics
 
 ---
 
@@ -137,17 +213,6 @@
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/cs_aiml_1530059?theme=dark&font=Karma" />
 </p>
-
----
-
-# 🌱 Currently Exploring
-
-- Generative AI
-- Large Language Models (LLMs)
-- Vector Databases
-- FastAPI
-- System Design
-- Cloud-Native Applications
 
 ---
 
