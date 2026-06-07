@@ -51,7 +51,6 @@
 <img src="https://skillicons.dev/icons?i=cpp" />
 <img src="https://skillicons.dev/icons?i=javascript" />
 <img src="https://skillicons.dev/icons?i=typescript" />
-<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ---
@@ -63,7 +62,6 @@
 <img src="https://skillicons.dev/icons?i=nodejs" />
 <img src="https://skillicons.dev/icons?i=express" />
 <img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
 <img src="https://skillicons.dev/icons?i=kafka" />
 </p>
 
@@ -122,9 +120,6 @@
 - Deep Learning
 - Generative AI
 - LLM Applications
-- Vector Databases
-- Embeddings
-- FAISS
 - RAG Systems
 - Scikit-Learn
 - TensorFlow
@@ -178,17 +173,18 @@
 
 # 🚀 Featured Projects
 
-### 🔹 AI Resume Analyzer
-- Built using React, Spring Boot and Machine Learning
-- ATS Score Analysis and Resume Feedback System
+### 🔹 MediPredict-Smart-Healthcare-Management-System
+- Built using Java, Springboot, React, AI, SQL
+- An intelligent healthcare platform for managing patients, appointments, and medical records efficiently.
 
-### 🔹 E-Commerce Platform
-- Full Stack Application using React, Spring Boot and MySQL
-- Authentication, Cart and Order Management
+### 🔹 Offline-UPI-Payment-System
+- Languages: Java, JavaScript, SQL
+- Tech Stack: Spring Boot, React.js, MySQL, REST APIs
+- Built to facilitate seamless UPI payments without active internet access using secure transaction processing.
 
-### 🔹 Hospital Management System
-- Java, Spring Boot and MySQL
-- Patient, Doctor and Appointment Management
+### 🔹 CampusConnect-Student-Grievance-Portal
+- MERN STACK
+-A MERN-based web application for efficient student grievance management, tracking, and resolution.
 
 ---
 
