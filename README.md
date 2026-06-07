@@ -53,7 +53,7 @@ Java • C++ • JavaScript • TypeScript • SQL
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,cpp,javascript,typescript,springboot,react,nodejs,express,mysql,aws,docker,kafka,linux,git,github,html,css,tailwind,tensorflow" />
+<img src="https://skillicons.dev/icons?i=java,cpp,javascript,typescript,spring,springboot,react,nodejs,express,mysql,aws,docker,kafka,linux,git,github,html,css,tailwind,tensorflow" />
 </p>
 
 ### Additional Skills
